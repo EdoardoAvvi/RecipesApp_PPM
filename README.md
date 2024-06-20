@@ -1,6 +1,8 @@
 Spiegazione delle funzionalità e delle pagine del progetto:
 
 
+
+
 Pagine:
 
 
@@ -19,6 +21,8 @@ Pagine:
            
   Logout: serve per sloggarsi
   
+
+
 
 Funzionalità:
 
