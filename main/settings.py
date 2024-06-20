@@ -36,9 +36,9 @@ if ENVIRONMENT == "development":
 else:
     DEBUG = "False"
 
-ALLOWED_HOSTS = ["djangorailway-production.up.railway.app", "127.0.0.1", "localhost"]
+ALLOWED_HOSTS = ["recipesappm.up.railway.app", "127.0.0.1", "localhost"]
 
-CSRF_TRUSTED_ORIGINS = ['https://djangorailway-production.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://recipesappm.up.railway.app']
 
 # Application definition
 
